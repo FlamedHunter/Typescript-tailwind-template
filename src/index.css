@@ -4,7 +4,6 @@
 
 
 @import '../node_modules/react-toastify/dist/ReactToastify.css';
-@import '/src/components/User/Homepage/Homepage.css';
 
 html {
     scroll-behavior: smooth;
